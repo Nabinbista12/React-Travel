@@ -1,3 +1,6 @@
+# Project
+This project is build while learning react and it is made with the help of tutorial.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
